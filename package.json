@@ -1,0 +1,19 @@
+{
+  "name": "cypress-screenshots",
+  "version": "1.0.0",
+  "description": "A demo for taking screenshots on test failure with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rattus-aristarchus/guide-cypress-screenshots.git"
+  },
+  "author": "mlankin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rattus-aristarchus/guide-cypress-screenshots/issues"
+  },
+  "homepage": "https://github.com/rattus-aristarchus/guide-cypress-screenshots#readme"
+}
